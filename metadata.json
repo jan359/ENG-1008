@@ -1,0 +1,5 @@
+{
+  "name": "Gemini C-Master Quiz",
+  "description": "An adaptive, AI-powered quiz platform based on C Programming lecture notes. Features dynamic question generation (MCQ, Short, Long), AI grading, and personalized spaced repetition for weak topics.",
+  "requestFramePermissions": []
+}
